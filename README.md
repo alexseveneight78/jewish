@@ -1,2 +1,0 @@
-# jewish
-Created with CodeSandbox
